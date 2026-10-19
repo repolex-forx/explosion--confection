@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "confection",
+  "versions": [
+    {
+      "commit": "b3adaf460c4d9e9b2a22a4601f61b7ea71891d2a",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:29:45.780558+00:00"
+    }
+  ]
+}
