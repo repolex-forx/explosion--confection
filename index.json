@@ -3,6 +3,11 @@
   "repo": "confection",
   "versions": [
     {
+      "commit": "81ac158a06061271bd410b2e741ef0b7ad00be97",
+      "tag": "v0.1.5",
+      "parsed_at": "2026-11-22T00:32:39.756266+00:00"
+    },
+    {
       "commit": "b3adaf460c4d9e9b2a22a4601f61b7ea71891d2a",
       "tag": "",
       "parsed_at": "2026-10-19T13:29:45.780558+00:00"
